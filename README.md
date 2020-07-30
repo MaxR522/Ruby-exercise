@@ -1,2 +1,4 @@
 # Ruby-exercise
-*Subject: https://github.com/felhix/tests-ruby.git
+Origin of the exercise: https://github.com/felhix/tests-ruby.git
+
+##Sayna Madagascar
