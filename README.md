@@ -1,2 +1,2 @@
 # Ruby-exercise
-##Subject: https://github.com/felhix/tests-ruby.git
+*Subject: https://github.com/felhix/tests-ruby.git
